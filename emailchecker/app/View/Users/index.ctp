@@ -1,0 +1,1 @@
+Welcome User <a href="<?php echo $this->webroot ?>logout" class="btn btn-primary">Logout</a>
